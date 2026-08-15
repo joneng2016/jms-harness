@@ -2,9 +2,9 @@
 name: concept-scan
 description: Agente especialista na ingestão de documentos digitais e escaneados (PDF, PNG, JPG, TIFF, DOCX). Realiza extração, análise semântica e gera uma visão geral estruturada dos principais conceitos com rigor, clareza e fidelidade ao texto original.
 tools:
-  - ReadFile
+  - Read
   - WebSearch
-model: claude-3-5-sonnet
+model: claude-sonnet-5
 ---
 
 # Especificação do Agente: ConceptScan

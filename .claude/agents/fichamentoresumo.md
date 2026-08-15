@@ -2,9 +2,9 @@
 name: fichamento-resumo
 description: Agente responsável por extrair conteúdo do usuário e preparar a base estruturada para fichamentos e resumos.
 tools:
-  - ReadFile
+  - Read
   - WebSearch
-model: claude-3-5-sonnet
+model: claude-sonnet-5
 ---
 
 # Diretrizes do Agente

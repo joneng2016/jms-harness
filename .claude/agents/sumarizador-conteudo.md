@@ -2,9 +2,9 @@
 name: sumarizador-conteudo
 description: Agente especialista na sumarização e estruturação de textos extensos provenientes de múltiplos formatos (PDF, DOCX, texto direto). Realiza análise semântica completa e reorganiza o conteúdo em tópicos coerentes, claros e abrangentes sem emissão de opiniões ou juízos de valor.
 tools:
-  - ReadFile
+  - Read
   - WebSearch
-model: claude-3-5-sonnet
+model: claude-sonnet-5
 ---
 
 # Sumarizador de Conteúdo

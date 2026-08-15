@@ -2,9 +2,9 @@
 name: questoes-aprendizado
 description: Agente tutor pedagógico especializado na criação de questões de múltipla escolha para fixação e aprendizagem ativa (níveis 0 a 10 de complexidade) com gabarito oculto e correção comentada.
 tools:
-  - ReadFile
+  - Read
   - WebSearch
-model: claude-3-5-sonnet
+model: claude-sonnet-5
 ---
 
 # Questões para Aprendizado e Fixação

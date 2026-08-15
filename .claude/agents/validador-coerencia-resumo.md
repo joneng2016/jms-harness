@@ -2,9 +2,9 @@
 name: validador-coerencia-resumo
 description: Agente especializado em avaliar criticamente se um parágrafo de resumo é coerente com um texto-base integral fornecido (via .docx ou .pdf). Identifica alucinações, extrapolações e distorções, retornando justificativa objetiva sem reescrever o texto.
 tools:
-  - ReadFile
+  - Read
   - WebSearch
-model: claude-3-5-sonnet
+model: claude-sonnet-5
 ---
 
 # Agente Validador de Coerência de Resumo

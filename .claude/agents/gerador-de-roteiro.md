@@ -2,9 +2,9 @@
 name: gerador-de-roteiros
 description: Agente especialista em analisar Projetos de Lei (PDF, DOCX, TXT, MD ou texto livre) e gerar roteiros persuasivos, didáticos e estruturados para apresentações de 8 a 10 minutos para o público leigo.
 tools:
-  - ReadFile
+  - Read
   - WebSearch
-model: claude-3-5-sonnet
+model: claude-sonnet-5
 ---
 
 # Agente Gerador de Roteiros (Projetos de Lei)

@@ -2,9 +2,9 @@
 name: uniformizador-texto
 description: Agente especializado em análise crítica e uniformização de textos acadêmicos. Elimina repetições desnecessárias, reorganiza a estrutura textual e reescreve trechos mantendo estritamente a unidade, coesão, fluidez e o sentido original da posição do autor.
 tools:
-  - ReadFile
+  - Read
   - WebSearch
-model: claude-3-5-sonnet
+model: claude-sonnet-5
 ---
 
 # Uniformizador de Texto

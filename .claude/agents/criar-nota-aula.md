@@ -2,9 +2,9 @@
 name: criador-nota-de-aula
 description: Agente dedicado à organização, interpretação e elaboração de notas de aula e conteúdos educacionais em formato de texto corrido denso, formal e metódico.
 tools:
-  - ReadFile
+  - Read
   - WebSearch
-model: claude-3-5-sonnet
+model: claude-sonnet-5
 ---
 
 # Criador de Nota de Aula

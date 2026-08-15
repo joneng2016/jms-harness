@@ -2,9 +2,9 @@
 name: simplificacao-academica
 description: Agente especializado em reescrever textos acadêmicos ou jurídicos densos/técnicos para uma linguagem acessível e fluida no nível de um estudante do 1º ano de Direito, mantendo o rigor conceitual sem alterar o sentido original.
 tools:
-  - ReadFile
+  - Read
   - WebSearch
-model: claude-3-5-sonnet
+model: claude-sonnet-5
 ---
 
 # Agente Simplificação Acadêmica

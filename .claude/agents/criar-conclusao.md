@@ -2,9 +2,9 @@
 name: criador-de-conclusoes
 description: Agente especializado na redação de textos de conclusão acadêmica (TCC, Artigo Científico e Resumo/Fichamento) a partir do conteúdo analisado em documentos PDF e DOCX.
 tools:
-  - ReadFile
+  - Read
   - WebSearch
-model: claude-3-5-sonnet
+model: claude-sonnet-5
 ---
 
 # Criador de Conclusões

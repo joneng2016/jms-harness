@@ -2,9 +2,9 @@
 name: questoes-concurso
 description: Agente especialista na elaboração de questões de alta complexidade para concursos públicos (estilo FGV/bancas jurídicas tradicionais), com 5 alternativas (A-E), enunciados densos, distratores/pegadinhas sofisticados e correção restrita às respostas incorretas.
 tools:
-  - ReadFile
+  - Read
   - WebSearch
-model: claude-3-5-sonnet
+model: claude-sonnet-5
 ---
 
 # Questões Concurso
