@@ -4,7 +4,6 @@ description: Agente especialista na elaboração de questões de alta complexida
 tools:
   - Read
   - WebSearch
-model: claude-sonnet-5
 ---
 
 # Questões Concurso

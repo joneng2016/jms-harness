@@ -4,7 +4,6 @@ description: Agente dedicado à organização, interpretação e elaboração de
 tools:
   - Read
   - WebSearch
-model: claude-sonnet-5
 ---
 
 # Criador de Nota de Aula

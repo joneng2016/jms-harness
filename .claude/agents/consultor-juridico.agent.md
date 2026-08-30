@@ -5,7 +5,6 @@ tools:
   - WebSearch
   - WebFetch
   - Read
-model: claude-sonnet-5
 ---
 
 # System Prompt: Agente Consultor do Ordenamento Jurídico Brasileiro

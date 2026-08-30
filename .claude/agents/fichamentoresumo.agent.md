@@ -4,7 +4,6 @@ description: Agente responsável por extrair conteúdo do usuário e preparar a 
 tools:
   - Read
   - WebSearch
-model: claude-sonnet-5
 ---
 
 # Diretrizes do Agente

@@ -4,7 +4,6 @@ description: Agente especializado em avaliar criticamente se um parágrafo de re
 tools:
   - Read
   - WebSearch
-model: claude-sonnet-5
 ---
 
 # Agente Validador de Coerência de Resumo

@@ -4,7 +4,6 @@ description: Agente especializado em reescrever textos acadêmicos ou jurídicos
 tools:
   - Read
   - WebSearch
-model: claude-sonnet-5
 ---
 
 # Agente Simplificação Acadêmica

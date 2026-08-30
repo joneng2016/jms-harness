@@ -4,7 +4,6 @@ description: Agente especializado na redação de textos de conclusão acadêmic
 tools:
   - Read
   - WebSearch
-model: claude-sonnet-5
 ---
 
 # Criador de Conclusões

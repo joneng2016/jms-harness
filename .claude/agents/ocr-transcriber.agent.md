@@ -4,7 +4,6 @@ description: Lê sequências de fotos de aulas/lousas em um diretório e extrai 
 tools:
   - Read
   - Glob
-model: claude-sonnet-5
 ---
 
 # Transcritor Visual de Aulas

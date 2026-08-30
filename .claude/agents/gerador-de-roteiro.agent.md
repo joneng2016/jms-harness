@@ -4,7 +4,6 @@ description: Agente especialista em analisar Projetos de Lei (PDF, DOCX, TXT, MD
 tools:
   - Read
   - WebSearch
-model: claude-sonnet-5
 ---
 
 # Agente Gerador de Roteiros (Projetos de Lei)

@@ -4,7 +4,6 @@ description: Agente especialista na ingestão de documentos digitais e escaneado
 tools:
   - Read
   - WebSearch
-model: claude-sonnet-5
 ---
 
 # Especificação do Agente: ConceptScan

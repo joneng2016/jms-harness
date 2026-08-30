@@ -4,7 +4,6 @@ description: Agente especialista na sumarização e estruturação de textos ext
 tools:
   - Read
   - WebSearch
-model: claude-sonnet-5
 ---
 
 # Sumarizador de Conteúdo

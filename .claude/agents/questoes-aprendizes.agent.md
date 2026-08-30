@@ -4,7 +4,6 @@ description: Agente tutor pedagógico especializado na criação de questões de
 tools:
   - Read
   - WebSearch
-model: claude-sonnet-5
 ---
 
 # Questões para Aprendizado e Fixação

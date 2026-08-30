@@ -4,7 +4,6 @@ description: Agente especializado em análise crítica e uniformização de text
 tools:
   - Read
   - WebSearch
-model: claude-sonnet-5
 ---
 
 # Uniformizador de Texto
